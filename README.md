@@ -8,3 +8,4 @@
     - HTML 7 CSS
     - RXJS
     - Arquitetura Cliente e servidor -HTTP
+    
