@@ -1,0 +1,21 @@
+*{
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+a{
+  display: inline-block;
+  margin: 5px;
+  background-color: brown;
+  border-radius: 6px;
+  text-align: center;
+  color: aliceblue;
+  width: 50px;
+  height: 30px;
+  line-height: 30px; 
+}
